@@ -1,4 +1,3 @@
-package College_Wallah_Array;
 import java.util.Scanner;
 public class Array_14 {
     public static int[] makeFrequencyArray(int[]array){
