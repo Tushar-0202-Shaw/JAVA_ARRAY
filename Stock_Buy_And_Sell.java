@@ -1,4 +1,3 @@
-package College_Wallah_Array;
 import java.util.Scanner;
 public class Stock_Buy_And_Sell {
     public static void main(String[] args) {
