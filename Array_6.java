@@ -1,4 +1,3 @@
-package College_Wallah_Array;
 import java.util.Scanner;
 public class Array_6 {
     public static void main(String[] args) {
