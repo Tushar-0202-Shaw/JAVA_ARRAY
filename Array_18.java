@@ -1,4 +1,3 @@
-package College_Wallah_Array;
 import java.util.Scanner;
 public class Array_18 {
     static int[] makePrefixArray(int[]array){
