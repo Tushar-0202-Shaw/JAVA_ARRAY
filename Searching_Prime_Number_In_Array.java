@@ -1,4 +1,3 @@
-package College_Wallah_Array;
 import java.util.Scanner;
 public class Searching_Prime_Number_In_Array {
     public static boolean isPrime(int n)
