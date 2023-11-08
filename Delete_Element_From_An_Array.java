@@ -1,4 +1,3 @@
-package College_Wallah_Array;
 import java.util.Scanner;
 public class Delete_Element_From_An_Array {
     public static void main(String[] args) {
