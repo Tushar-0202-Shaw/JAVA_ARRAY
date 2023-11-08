@@ -1,4 +1,3 @@
-package College_Wallah_Array;
 import java.util.Scanner;
 public class Array_24_Pascal_Triangle {
     static void print_Array(int[][]array){
