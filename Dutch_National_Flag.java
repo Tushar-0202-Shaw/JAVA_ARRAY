@@ -1,4 +1,3 @@
-package College_Wallah_Array;
 import java.util.Scanner;
 public class Dutch_National_Flag {
     static void swap(int[]arr,int i,int j){
