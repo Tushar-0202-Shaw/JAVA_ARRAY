@@ -1,4 +1,3 @@
-package College_Wallah_Array;
 import java.util.Scanner;
 public class Union_Of_Two_Array {
     static void output(int[]arr1 , int[]arr2){
