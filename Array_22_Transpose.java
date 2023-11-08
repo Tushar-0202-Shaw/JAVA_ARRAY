@@ -1,4 +1,3 @@
-package College_Wallah_Array;
 import java.util.Scanner;
 public class Array_22_Transpose {
     static void print_array(int[][]array){
