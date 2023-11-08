@@ -1,4 +1,3 @@
-package College_Wallah_Array;
 import java.util.Scanner;
 public class Array_21_Multiplication_Of_Matrices {
     static void print_matrix(int[][]array){
