@@ -1,4 +1,3 @@
-package College_Wallah_Array;
 import java.util.Scanner;
 public class Array_11_Reverse_An_Array {
     static int[] ReverseArray(int[]array){
