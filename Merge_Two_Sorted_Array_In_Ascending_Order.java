@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class Merge_Two_Sorted_Array_In_Ascending_Order {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
