@@ -1,4 +1,3 @@
-package College_Wallah_Array;
 import java.util.Scanner;
 public class Array_12_Rotate_An_Array {
     public static int[] rotate(int[]array, int k){
