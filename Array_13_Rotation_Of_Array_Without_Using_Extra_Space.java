@@ -1,4 +1,3 @@
-package College_Wallah_Array;
 import java.util.Scanner;
 public class Array_13 {
     public static void swap(int[]array,int i,int j){
