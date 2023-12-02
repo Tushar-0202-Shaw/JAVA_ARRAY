@@ -21,10 +21,8 @@ public class Array_23 {
         int i=0 , j = ans.length-1;
         while(i<j){
             int temp = ans[i];
-            ans[i] = ans[j];
-            ans[j] = temp ;
-            i++;
-            j--;
+            ans[i++] = ans[j];
+            ans[j--] = temp ;
         }
     }
     public static void rotate(int[][]array , int r , int c){
