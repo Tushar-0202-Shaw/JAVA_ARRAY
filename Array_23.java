@@ -22,7 +22,7 @@ public class Array_23 {
         while(i<j){
             int temp = ans[i];
             ans[i++] = ans[j];
-            ans[j--] = temp ;
+            ans[j--] = temp;
         }
     }
     public static void rotate(int[][]array , int r , int c){
